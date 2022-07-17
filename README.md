@@ -13,4 +13,4 @@ This calendar app is responsible for saving events for each hour of the work day
 
 <img src = "./Develop/forReadme.png" alt = "Website Preview" />  
 
-<a href= ""> Deployed Link on GitHub</a>
+<a href= "https://gnorzea.github.io/Workday-Scheduler/"> Deployed Link on GitHub</a>
